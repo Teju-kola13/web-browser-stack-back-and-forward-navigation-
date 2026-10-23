@@ -1,4 +1,4 @@
-urlhttp://127.0.0.1:5000/
+🔗 Live Visualization:  http://127.0.0.1:5000/
 # stack-website-nav
 
 A modern, interactive computer science visualizer and educational engine demonstrating **Web Browser History Navigation** using the **Stack (LIFO - Last In, First Out)** data structure alongside **3 distinct architectural approaches**.
